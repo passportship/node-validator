@@ -1,7 +1,7 @@
 {
   "name": "@passportship/validator-list",
   "description": "Validator",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "engines": {
     "node": ">=20.6.0",
     "npm": ">=9.8.0"
